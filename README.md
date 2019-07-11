@@ -5,7 +5,7 @@ Dictionary Based Hash Cracker written in C++ for a University Data Structures an
 - MD5, SHA1, SHA256 Support
 - CPU Based 
 - Multi Threaded
-- Modular Hash System (Easy to add other algorithms
+- Modular Hash System (Easy to add other algorithms)
 ### Prerequisites:
 - OpenSSL Library
 ### Benchmarks:
